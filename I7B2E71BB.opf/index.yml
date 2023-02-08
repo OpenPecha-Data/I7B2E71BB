@@ -1,0 +1,87 @@
+id: 5ad5121cc0674c53a8ffe5a405459a9c
+annotation_type: index
+revision: '00001'
+annotations:
+  9821579dfd7640cfa5be7956b3df319d:
+    base: D2CD.txt
+    Chapters:
+    - title: §0-4
+      span:
+        start: 0
+        end: 944
+    - title: §5
+      span:
+        start: 945
+        end: 1914
+    - title: §6
+      span:
+        start: 1915
+        end: 2134
+    - title: §7
+      span:
+        start: 2135
+        end: 2401
+    - title: §8
+      span:
+        start: 2402
+        end: 2625
+    - title: §9
+      span:
+        start: 2626
+        end: 2843
+    - title: §10
+      span:
+        start: 2844
+        end: 3040
+    - title: §11-12
+      span:
+        start: 3041
+        end: 3354
+    - title: §13
+      span:
+        start: 3355
+        end: 3616
+    - title: §14
+      span:
+        start: 3617
+        end: 4007
+    - title: §15
+      span:
+        start: 4008
+        end: 4211
+    - title: §16
+      span:
+        start: 4212
+        end: 4651
+    - title: §17
+      span:
+        start: 4652
+        end: 4971
+    - title: §18
+      span:
+        start: 4972
+        end: 5169
+    - title: §19
+      span:
+        start: 5170
+        end: 5421
+    - title: §20
+      span:
+        start: 5422
+        end: 5685
+    - title: §21
+      span:
+        start: 5686
+        end: 6040
+    - title: §22
+      span:
+        start: 6041
+        end: 6155
+    - title: §23
+      span:
+        start: 6156
+        end: 6222
+    - title: Colophon
+      span:
+        start: 6223
+        end: 6232

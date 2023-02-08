@@ -1,0 +1,16 @@
+id: I7B2E71BB
+default_language: zh
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-08 14:55:07.799578
+last_modified: 2023-02-08 14:55:07.799718
+source_metadata:
+  title: Bhaiṣajyagurupūrvapraṇidhānasūtra
+  language: zh
+bases:
+  D2CD:
+    base_file: D2CD.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
